@@ -1,7 +1,7 @@
 {
   "_args": [
     [
-      "material-ui",
+      "@myfintech/material-ui",
       "/Users/nick/Documents/programing/04.work/4.10.my-fin-techstars/ace"
     ]
   ],
