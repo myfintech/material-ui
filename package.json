@@ -1,6 +1,5 @@
 {
-  "name": "material-ui-build",
-  "private": true,
+  "name": "@myfintech/material-ui-build",
   "author": "Call-em-all Engineering Team",
   "version": "0.16.0-alpha",
   "description": "Material Design UI components built with React",
