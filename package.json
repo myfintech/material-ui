@@ -97,7 +97,7 @@
       "name": "shaurya947"
     }
   ],
-  "name": "material-ui",
+  "name": "@myfintech/material-ui",
   "optionalDependencies": {},
   "peerDependencies": {
     "react": "^15.0.0",
