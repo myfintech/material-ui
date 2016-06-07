@@ -316,7 +316,7 @@ class Drawer extends Component {
 
       // We have to open or close after setting swiping to null,
       // because only then CSS transition is enabled.
-      if (translateRatio > 0.5) {
+      if (translateRatio > 0.2) {
         if (swiping === 'opening') {
           this.setPosition(this.getMaxTranslateX());
         } else {
